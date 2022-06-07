@@ -1,0 +1,49 @@
+html {
+  height: auto;
+  background-color: #222629;
+  height: 3000px;
+}
+
+.header {
+  height: 70px;
+  background-color: #669933;
+  width:1950px;
+}
+.nav{
+  cursor: pointer;
+  margin: 3px;
+  height: 64px;
+  width: auto ;
+  min-width: 10%;
+  background-color: #669933;
+  border: none;
+}
+.poisk{
+  margin: 10px;
+  height: 32px;
+  width: 800px ;
+  border-radius:7px;
+  border: none;
+}
+.img{
+  width: 1950px;
+  height: 600px;
+}
+.main_start{
+  font-family: Regular;
+  font-size: 38px;
+  position:absolute ;
+  top :500px;
+  left :760px;
+  height: 70px;
+  width: 400px;
+  text-align:center;
+  letter-spacing: 3px;
+  box-sizing: border-box;
+  border-radius: 7px;
+  background-color: #669933;
+  cursor: pointer;
+  border: none;
+
+
+}
